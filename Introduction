@@ -1,0 +1,39 @@
+1)Cloud Computing :-
+
+•	Cloud computing is the delivery of online services (such as servers, databases, software) to users.
+  With the help of cloud computing, storing data on local machines is not required. 
+•	It helps you access data from a remote server. 
+•	Moreover, it is also used to store and access data from anywhere across the world
+
+
+2)Deployment model in cloud :-
+
+I) Public Cloud:
+
+i) In a public cloud model, cloud resources and services are owned and operated by a third-party cloud service provider
+and made available to the general public or a large customer base. 
+ii) These services are delivered over the internet and can be accessed by anyone with an internet connection and the necessary credentials.
+iii) Examples of public cloud providers include Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), and IBM Cloud.
+
+II) Private Cloud:
+
+i) A private cloud is a cloud infrastructure and services that are dedicated to a single organization. 
+ii) It can be hosted on-premises within an organization's data center or hosted by a third-party provider.
+iii) Private clouds offer greater control, security, and customization compared to public clouds. 
+They are often chosen by organizations with specific compliance, security, or performance requirements.
+
+III) Hybrid Cloud:
+
+i) A hybrid cloud combines elements of both public and private clouds, allowing data and applications to be shared between them. 
+It provides greater flexibility by enabling workloads to move between the public and private environments.
+ii) Organizations use hybrid clouds for various reasons, such as achieving cost savings, maintaining data sovereignty, or scaling resources during peak demand.
+iii) Hybrid cloud deployments can be complex, as they require integration between public and private cloud environments. 
+Tools and technologies like cloud orchestration and containerization help manage these deployments effectively.
+
+IV)Community Cloud:
+
+i)A community cloud is shared by multiple organizations or entities with common interests, 
+such as industry-specific compliance requirements or regulatory concerns.
+ii) These clouds are tailored to meet the needs of a particular community or group of organizations. 
+They offer the benefits of cloud computing while addressing shared concerns.
+iii)Community clouds can be managed by one organization or a third-party provider and are often used in sectors like healthcare, education, or government.
